@@ -1,2 +1,3 @@
 # ML-Regression
-Coursea ML assignments on regression
+University of Washington online couse on regression
+https://www.coursera.org/learn/ml-regression
